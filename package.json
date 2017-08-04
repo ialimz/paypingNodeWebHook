@@ -1,0 +1,24 @@
+{
+  "name": "payping-node-webhook-observer",
+  "version": "1.0.0",
+  "description": "Observe WebHook from https://payping.ir in Node.JS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ialimz/paypingNodeWebHook.git"
+  },
+  "keywords": [
+    "payping",
+    "payment",
+    "webhook"
+  ],
+  "author": "Ali Moazenzadeh",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ialimz/paypingNodeWebHook/issues"
+  },
+  "homepage": "https://github.com/ialimz/paypingNodeWebHook#readme"
+}
